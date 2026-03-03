@@ -1,25 +1,25 @@
 # Mini site Git
-## DescripƟon
-Ce projet est un mini site HTML/CSS uƟlisé pour apprendre à uƟliser Git et GitHub.
-## FoncƟonnalités
+## Description
+Ce projet est un mini site HTML/CSS utilisé pour apprendre à utiliser Git et GitHub.
+## Fonctionnalités
 - Structure HTML de base
 - Mise en forme CSS
-- SecƟon PrésentaƟon stylisée
+- Section Présentation stylisée
 - Versionnement avec Git
-- PublicaƟon sur GitHub
-## Technologies uƟlisées
+- Publication sur GitHub
+## Technologies utilisées
 | Technologie | Rôle |
 |-------------|------|
 | HTML | Structure du site |
 | CSS | Mise en forme |
-| Git | GesƟon de versions |
+| Git | Gestion de versions |
 | GitHub | Hébergement du dépôt |
 ## Avancement du projet
-- [x] IniƟalisaƟon du projet
-- [x] Ajout de la secƟon PrésentaƟon
-- [x] AmélioraƟon du design
+- [x] Initialisation du projet
+- [x] Ajout de la section Présentation
+- [x] Amélioration du design
 - [ ] Ajout d'une galerie d'images
-## Commandes principales uƟlisées
+## Commandes principales utilisées
 `git init`
 `git add`
 `git commit`
